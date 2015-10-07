@@ -1,0 +1,5 @@
+name: NoInvis
+main: com.razorordeath.noinvis.NoInvis
+author: razorordeath
+version: 1.0.0
+description: Simple Bukkit plugin that blocks invisibility potions.

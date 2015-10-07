@@ -1,0 +1,5 @@
+& NoInvis by razorordeath.
+noperm: "&cYou are not allowed to do that!"
+
+# What is the potion changed to when attempted to drink?
+ReplacementItemID: 0
